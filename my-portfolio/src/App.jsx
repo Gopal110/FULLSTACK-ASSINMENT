@@ -36,7 +36,7 @@ function App() {
 
       <section id="home" className="hero">
         <p className="tag">WELCOME TO MY PORTFOLIO</p>
-        <h1>Hi, I'm <span>Shailendra</span></h1>
+        <h1>Hi, I'm <span>GOPAL_DIXIT</span></h1>
         <h2>React Developer & MCA Student</h2>
         <p>
           I love building websites and exploring new technologies.
@@ -92,7 +92,7 @@ function App() {
       </section>
 
       <footer>
-        <p>© 2026 Shailendra | All Rights Reserved</p>
+        <p>© 2026 GOPAL | All Rights Reserved</p>
       </footer>
     </div>
   );
